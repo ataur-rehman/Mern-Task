@@ -12,6 +12,13 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 - **TypeScript Integration**: Full type safety throughout the application
 - **RESTful API**: Clean backend with MongoDB integration and data validation
 
+  ##  ScreenShots
+<p align="center">
+  <img src="ScreenShot01.png" alt="ScreenShot01" width="45%"/>
+  <img src="ScreenShot02.png" alt="ScreenShot02" width="45%"/>
+</p>
+
+
 ##  Quick Start
 
 ### Prerequisites
