@@ -17,23 +17,6 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 - **TypeScript Integration**: Full type safety throughout the application
 - **RESTful API**: Clean backend with MongoDB integration and data validation
 
-##  Project Structure
-
-Mern Task/
- timesheet-backend/          # Node.js + Express API
-    controllers/            # Business logic
-    models/                 # MongoDB schemas
-    routes/                 # API endpoints
-    validation/             # Input validation
-    server.js              # Main server
-    test-server.js         # Development server (no DB)
- timesheet-frontend/         # React + TypeScript UI
-    src/components/         # React components
-    src/context/           # State management
-    src/services/          # API calls
-    src/types/             # TypeScript definitions
- README.md
-
 ##  Quick Start
 
 ### Prerequisites
