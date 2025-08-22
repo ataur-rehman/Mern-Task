@@ -23,38 +23,38 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 **Option 1: With Test Server (No Database Required)**
 
 1. **Start Backend (Test Server)**
-   `ash
+
    cd "E:\Mern Task\timesheet-backend"
    npm install
    npm run test-server
-   `
 
+   
 2. **Start Frontend** (New Terminal)
-   `ash
-   cd "E:\Mern Task\timesheet-frontend"
+
+    cd "E:\Mern Task\timesheet-frontend"
    npm install
    npm start
-   `
+   
 
-3. **Access Application**
+4. **Access Application**
    - Frontend: http://localhost:3000
    - Backend: http://localhost:5000
 
 **Option 2: With MongoDB Database**
 
 1. **Start Backend (Full Server)**
-   `ash
+
    cd "E:\Mern Task\timesheet-backend"
    npm install
    npm run dev
-   `
+
 
 2. **Start Frontend** (New Terminal)
-   `ash
+
    cd "E:\Mern Task\timesheet-frontend"
    npm install
    npm start
-   `
+
 
 ##  Technology Stack
 
