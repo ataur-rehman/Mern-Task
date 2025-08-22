@@ -1,4 +1,4 @@
-﻿# MERN Timesheet Management System
+# MERN Timesheet Management System
 
 A full-stack timesheet management application built with MongoDB, Express.js, React, and Node.js featuring dynamic time tracking, real-time calculations, and professional UI components.
 
@@ -64,22 +64,6 @@ Mern Task/
    - Frontend: http://localhost:3000
    - Backend: http://localhost:5000
 
-**Option 2: With MongoDB Database**
-
-1. **Start Backend (Full Server)**
-   `ash
-   cd "E:\Mern Task\timesheet-backend"
-   npm install
-   npm run dev
-   `
-
-2. **Start Frontend** (New Terminal)
-   `ash
-   cd "E:\Mern Task\timesheet-frontend"
-   npm install
-   npm start
-   `
-
 ##  Technology Stack
 
 ### Frontend
@@ -101,12 +85,6 @@ Mern Task/
 - Add multiple billing items per timesheet
 - Real-time amount calculation based on rate and time
 - Collapsible sections for better organization
-
-### Advanced Time Input
-- Click-to-edit time fields with HH:MM:SS format
-- Dropdown selection with preset time increments
-- 6-minute increment validation for billing accuracy
-- Automatic format validation and error handling
 
 ### Professional Features
 - Responsive design for desktop and mobile
