@@ -2,11 +2,6 @@
 
 A full-stack timesheet management application built with MongoDB, Express.js, React, and Node.js featuring dynamic time tracking, real-time calculations, and professional UI components.
 
-![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)
-![Material-UI](https://img.shields.io/badge/Material--UI-5.x-purple.svg)
-
 ##  Key Features
 
 - **Dynamic Timesheet Management**: Add, edit, and delete timesheet entries with multiple billing items
