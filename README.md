@@ -19,7 +19,6 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 
 ##  Project Structure
 
-`
 Mern Task/
  timesheet-backend/          # Node.js + Express API
     controllers/            # Business logic
@@ -34,7 +33,6 @@ Mern Task/
     src/services/          # API calls
     src/types/             # TypeScript definitions
  README.md
-`
 
 ##  Quick Start
 
