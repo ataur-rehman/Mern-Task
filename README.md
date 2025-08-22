@@ -14,9 +14,10 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 
   ##  ScreenShots
 <p align="center">
-  <img src="ScreenShot01.png" alt="ScreenShot01" width="45%"/>
-  <img src="ScreenShot02.png" alt="ScreenShot02" width="45%"/>
+  <img src="ScreenShot01.png" alt="ScreenShot01" height="300">
+  <img src="ScreenShot02.png" alt="ScreenShot02" height="300">
 </p>
+
 
 
 ##  Quick Start
