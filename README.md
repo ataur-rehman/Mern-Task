@@ -31,18 +31,22 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 1. **Start Backend (Test Server)**
 
    cd "E:\Mern Task\timesheet-backend"
+   
    npm install
+   
    npm run test-server
 
    
-2. **Start Frontend** (New Terminal)
+3. **Start Frontend** (New Terminal)
 
     cd "E:\Mern Task\timesheet-frontend"
+   
    npm install
+   
    npm start
    
 
-4. **Access Application**
+5. **Access Application**
    - Frontend: http://localhost:3000
    - Backend: http://localhost:5000
 
@@ -51,14 +55,18 @@ A full-stack timesheet management application built with MongoDB, Express.js, Re
 1. **Start Backend (Full Server)**
 
    cd "E:\Mern Task\timesheet-backend"
+   
    npm install
+   
    npm run dev
 
 
-2. **Start Frontend** (New Terminal)
+3. **Start Frontend** (New Terminal)
 
    cd "E:\Mern Task\timesheet-frontend"
+   
    npm install
+   
    npm start
 
 
